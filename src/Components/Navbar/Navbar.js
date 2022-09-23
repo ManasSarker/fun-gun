@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = ({ count }) => {
   return (
     <div>
-      <div className="navbar bg-base-200 shadow-lg lg:px-20">
+      <div className="navbar bg-base-100 shadow-lg lg:px-20">
         <div className="flex-1">
           <a href="/" className="btn btn-ghost normal-case text-xl">
             FUN GUN
